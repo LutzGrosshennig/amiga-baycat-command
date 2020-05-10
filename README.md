@@ -3,7 +3,7 @@ An Amiga top down endless scrolling game project started in 1989.
 
 Some friends of me (back then) where really talented with graphics and we started a couple of really promising game projects including this one.
 
-![Screenshot](https://github.com/LutzGrosshennig/amiga-baycat-command/blob/master/screenshots/Baycat-Command-Title.jpg)
+![Screenshot](https://github.com/LutzGrosshennig/amiga-baycat-command/blob/master/screenshots/Baycat-Command-Titel.jpg)
 
 The story is kind of lame: You and your speed boot against time and bandits! Of course with 50 FPS smooth as silk vertical scrolling.
 
