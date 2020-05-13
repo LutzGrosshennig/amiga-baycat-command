@@ -24,5 +24,16 @@ Unfortunatly we never had any good sounds and the time to finish Baycat Command.
 
 Due to the crappy IRQ initialization it currently requires Kickstart 1.2/1.3!
 
+# Update
+I am currently trying to get everything into an state that is compilable. The disk had some bad sectors and I am trying to pull the corrupted files from other copies. Hang on a little while longer its comming... While I was scanning through the code, I noticed that it does indeed needs a lot of refactoring. Today I would do almost everything differently... But if I would not, it would mean I did not learn anything in the past 30 years :D
+
 Have fun with it!
 Lutz
+
+# Planned improvements
+* Porting to another assembler. While I liked the Profimat back then, it is not very common.
+* Getting rid of the self modifying code (that is nasty!).
+* Bring IRQ and Copper handling inline with KS 2.0 and above.
+* A level editor would be nice!
+* Refactor to proper chip/fastram usage (by now everything has to be in chipram, a no go).
+* Do things right! :D
