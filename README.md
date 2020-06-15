@@ -31,9 +31,10 @@ Have fun with it!
 Lutz
 
 # Planned improvements
-* Porting to another assembler. While I liked the Profimat back then, it is not very common.
-* Getting rid of the self modifying code (that is nasty!).
-* Bring IRQ and Copper handling inline with KS 2.0 and above.
+* Porting to another assembler. While I liked the Profimat IDE back then, it is not very common.
+* Getting rid of the self modifying code of the IRQ handling (that is nasty!).
+* ~~Bring Copper handling inline with KS 2.0 and above. (fixed)
 * A level editor would be nice!
 * Refactor to proper chip/fastram usage (by now everything has to be in chipram, a no go).
+* Switch to interleaved bitplanes
 * Do things right! :D
