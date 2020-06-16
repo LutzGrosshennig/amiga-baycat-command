@@ -21,8 +21,9 @@ Unfortunatly we never had any good sounds and the time to finish Baycat Command.
 * Enemies!
 * Sounds!
 * Levels!
+* Animations!
 
-Due to the crappy IRQ initialization it currently requires Kickstart 1.2/1.3!
+~~Due to the crappy IRQ initialization it currently requires Kickstart 1.2/1.3!~~ (fixed)
 
 # Update
 I am currently trying to get everything into an state that is compilable. The disk had some bad sectors and I am trying to pull the corrupted files from other copies. Hang on a little while longer its comming... While I was scanning through the code, I noticed that it does indeed needs a lot of refactoring. Today I would do almost everything differently... But if I would not, it would mean I did not learn anything in the past 30 years :D
